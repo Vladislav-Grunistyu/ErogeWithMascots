@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: 72cff53c8c310fa41b7178d27989373c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 275
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe4c85cb49278149847be5b55fae15a
+      internalID: 1273734711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 275
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8977c5b6a348fff46ad3a286cf0d976d
+      internalID: 6185968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 275
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ea31c2b37a99449f76c83e16733e2
+      internalID: -1901423496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 275
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae370e6ba2ead4b8e16f0a942593c9
+      internalID: -1088411775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 211
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee8ddfc2896959489735156e142dc17
+      internalID: -1083679604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 211
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76c0e1a69bb0924dabbdd002cac1f52
+      internalID: 817930900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 211
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1eb95710f8f154990278e8e9ce9655
+      internalID: 1393839872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 211
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3fbfd36ac8254409d9b11e1a844897
+      internalID: -126933769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 147
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45aea74efa4a144387ff67bfcf7a47c
+      internalID: 2114801932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 147
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a1812c37a8c9846a4b8cd160bc991c
+      internalID: 1003684827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 147
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97e161c5f1f35944bf679dc92009e00
+      internalID: 1036935210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 147
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76075616891e59f4f991b55493132a4d
+      internalID: -817697087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 83
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7192e760c601c49489050ceb6fa7b808
+      internalID: 483097169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 83
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc102080df4bbe946bdc51cb53de7201
+      internalID: -2060955329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 83
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0194523f2c2ff4f8a1fbd937cb5219
+      internalID: 942449561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 83
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b4534d7e5d570498882ca099ac7e17
+      internalID: 169699315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 35
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7cb4e3006e7114eba24fdbf2d58128
+      internalID: -33848006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 35
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f9f2a0c5c6b2446b41a524866400ee
+      internalID: 1711776875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd59cf518926e8940aa7ea8fd222a08a
+      internalID: -1791104103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 35
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae4ea840cb7a745a4860bca1cc385c
+      internalID: -441977884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 35
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f58da06320925045a5567148043bd25
+      internalID: 1546029381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animatsii_udarov_blokov_i_pokoya_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 28
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3929952d3ced3d34f9c343d6a1767689
+      internalID: 298679653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      animatsii_udarov_blokov_i_pokoya_7: -126933769
+      animatsii_udarov_blokov_i_pokoya_4: -1083679604
+      animatsii_udarov_blokov_i_pokoya_17: 1711776875
+      animatsii_udarov_blokov_i_pokoya_12: 483097169
+      animatsii_udarov_blokov_i_pokoya_14: 942449561
+      animatsii_udarov_blokov_i_pokoya_18: -1791104103
+      animatsii_udarov_blokov_i_pokoya_16: -33848006
+      animatsii_udarov_blokov_i_pokoya_0: 1273734711
+      animatsii_udarov_blokov_i_pokoya_19: -441977884
+      animatsii_udarov_blokov_i_pokoya_13: -2060955329
+      animatsii_udarov_blokov_i_pokoya_15: 169699315
+      animatsii_udarov_blokov_i_pokoya_1: 6185968
+      animatsii_udarov_blokov_i_pokoya_6: 1393839872
+      animatsii_udarov_blokov_i_pokoya_21: 298679653
+      animatsii_udarov_blokov_i_pokoya_20: 1546029381
+      animatsii_udarov_blokov_i_pokoya_11: -817697087
+      animatsii_udarov_blokov_i_pokoya_3: -1088411775
+      animatsii_udarov_blokov_i_pokoya_5: 817930900
+      animatsii_udarov_blokov_i_pokoya_9: 1003684827
+      animatsii_udarov_blokov_i_pokoya_8: 2114801932
+      animatsii_udarov_blokov_i_pokoya_2: -1901423496
+      animatsii_udarov_blokov_i_pokoya_10: 1036935210
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

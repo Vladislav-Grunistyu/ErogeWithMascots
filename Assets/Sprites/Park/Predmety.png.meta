@@ -1,0 +1,2011 @@
+fileFormatVersion: 2
+guid: 715bc792203f26246bdad7eb83c04f29
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Predmety_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1840
+        width: 159
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edca2fa2e18d94c458b791559af70d70
+      internalID: 528901360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1799
+        width: 334
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c533928d1204a4db05f1c400b5a273
+      internalID: -63004882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1466
+        width: 120
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac106e4de5259742af21fd98da61bb5
+      internalID: 1871414100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1776
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5394394671009458c2ddae46869a08
+      internalID: -1204616879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_4
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1809
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eeb72c22bfed449bd6a25ae5772f6d
+      internalID: -2126600369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_5
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1798
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fded844ce7c43cb47822db0d111f7c7f
+      internalID: -856859289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1812
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859b5208b1be20d409e148f82061ade1
+      internalID: 487317161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_7
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1813
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185347a8e86c1f543a9d474b5a632b7a
+      internalID: -1345654511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_8
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1540
+        width: 1558
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796285342c66ffa40ab0ca7542a9e3a3
+      internalID: -38717995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1820
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b50dee7c7f4684aa5299f0499ba6e1
+      internalID: -2128215583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1701
+        width: 26
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955fe505ff4b9f24c8da514fafa01271
+      internalID: 27657692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1701
+        width: 27
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1d7b28ef060a843a3b244ca1e76bf9
+      internalID: -1837267135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1788
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b5ead7baaf280418f07778e4ccd346
+      internalID: 1721879119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1791
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e564d242a0729e48836469672b323ff
+      internalID: -1405713767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1706
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229440accf8695841b5589e59a57eb8b
+      internalID: -1000183782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1755
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83caee4f41be9641a302629ddcc1d17
+      internalID: -811591996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1763
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d09a4a2a39cc9c4c918439911bc1a58
+      internalID: -1833696982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_17
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1721
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217d20e81a8fdcd4d8d2e4f6618e961f
+      internalID: -515448884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_18
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1713
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ac5abb831870942b6c0aca41c3e102
+      internalID: -1657034847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1701
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d846187d1c86a24e860baec20152959
+      internalID: 1596171129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1707
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe86ce134943a4e993eb93c867d0ae
+      internalID: -1745248971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_21
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1707
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2ec8c32d1248049b79b234794f07a2
+      internalID: 494582293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_22
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1724
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe35404a313dec4ab2b0ff8056d9fd9
+      internalID: 1713153160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1497
+        width: 323
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4d49f15320f704c8978647307017f9
+      internalID: -1681688401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_24
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1530
+        width: 156
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cd26080897ce54c8bd4b81cfd47f94
+      internalID: -1568661944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_25
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1593
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f315ea56878b824baecef5591ff0bc8
+      internalID: -1943187196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_26
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1571
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149162aef79c6b54991480e64c8d8996
+      internalID: 312134707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_27
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1551
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b73dc0ad7c1394e8120a28cae90f23
+      internalID: -1969665532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_28
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1530
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4131f23da74ed3e43b8c689b792d6f21
+      internalID: -1438737978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1366
+        width: 288
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28e2b0ea6ea07940863584cf01a4e4b
+      internalID: 65354114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_30
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1454
+        width: 322
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127f8f860d291b846a31462fa673e4c5
+      internalID: -1723842279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_31
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1403
+        width: 1542
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e7f6c8c34860641b19cd46906b07f8
+      internalID: 960112006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_32
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1216
+        width: 87
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1361e8d1f778e6947acdffc46644bd22
+      internalID: 1229865471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1258
+        width: 108
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d25f9ba15d6b14696c91f2ae666a6f
+      internalID: -1451913339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1258
+        width: 14
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe2319048ac19d4d9ace7d1de629cef
+      internalID: 377835699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1258
+        width: 13
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7379fba063697b440be41a64f786b0d5
+      internalID: -997648470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_36
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1258
+        width: 14
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409c676aac92d954b9a058b4497dbcd5
+      internalID: 1347629389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1192
+        width: 88
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ebbe87f5a5459429923ffc4c81927e
+      internalID: -1648396974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1197
+        width: 246
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ca99d73c860b64b80e1a030dd08ffb
+      internalID: 1987070515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_39
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1194
+        width: 36
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2342f4afd537d42b930df56e53a67b
+      internalID: -835303196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_40
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1194
+        width: 212
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea71bf3479174d40a63ee2bb590235c
+      internalID: 1854558801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_41
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1194
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef4b20d97c0938419e9d6b62101ff48
+      internalID: -1242618898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_42
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1197
+        width: 248
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064bc41b3552f9740bbd33572bceefe7
+      internalID: 865460681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_43
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1197
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc441310629aac743bffefd0aab0dec2
+      internalID: 834627588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_44
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1197
+        width: 364
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e06393843d832409a2a27cf97e96b3
+      internalID: -1157807894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_45
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1187
+        width: 87
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2145f6beb3a09cc49b41b7ff0b6a3896
+      internalID: 1354182116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_46
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1187
+        width: 87
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa68f2dc275f1747bd88c585257e628
+      internalID: 311559297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_47
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1125
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.828064, y: -26.890747}
+        - {x: 36.04944, y: -61}
+        - {x: -49.464905, y: -61}
+        - {x: -49.60565, y: 58.90979}
+        - {x: 50.5, y: 61}
+        - {x: 50.5, y: 36.259033}
+        - {x: 45.420837, y: -24.655396}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bbc23dcaa9c194c8c84559a4b13e5b
+      internalID: 1485617844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_48
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1133
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eb44339729d564dbca48b21a331884
+      internalID: -448690544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_49
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1040
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5cf9a0aea9df841b0be9ea867a36fd
+      internalID: 365850200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_50
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1038
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1575b31a8626f1a4d827f0d01ff86b51
+      internalID: 1195773117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_51
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1039
+        width: 77
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87932db688d42524ea690e342a0c1216
+      internalID: 712039492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_52
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1040
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233336a9e994cc04aad70c5efb98d565
+      internalID: 1200527209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_53
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1023
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c353634818814744a6d5257d67659e6
+      internalID: -575947243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_54
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1023
+        width: 69
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4cc09de361ba14791abee1cad87b72
+      internalID: -1945560891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_55
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1135
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee065eb834e86b548b4bc6423e0a1420
+      internalID: 800046134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1018
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2558a4d40c37f4da75fd424d74233d
+      internalID: -1102389544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_57
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1040
+        width: 113
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4530791772c019c4c872d6761cf04ae3
+      internalID: -1522416178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_58
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 752
+        width: 291
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9af5a6e836a5084f99d7b79be83e297
+      internalID: -2124541503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_59
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 767
+        width: 187
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ec1cc5f4663214794eeb4eadc2fe33
+      internalID: 452594661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_60
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 765
+        width: 192
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75fee80fcafffe41b01e58144a3e731
+      internalID: 2118064935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_61
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 761
+        width: 160
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0732294ac4ab647adcef95e8d92e41
+      internalID: -177008355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_62
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 759
+        width: 331
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea68a1571fbfd940999a310f2983713
+      internalID: 1178814934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_63
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 687
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9ae68945df10846b91c5a1c8468d1d
+      internalID: -1175018978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_64
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 687
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b76fe59e6fadc429e7db955c472f8e
+      internalID: 211411517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_65
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 687
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de743b27fc3c50a4c992b6bec47fbaa4
+      internalID: -981338970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_66
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 687
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4f2dc839b79a448b2c8d2871f5da36
+      internalID: -610730234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_67
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 554
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3614828808f0f8348bc737b4158fbc24
+      internalID: -1091856170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_68
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 551
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f8bba8d8d1a14eb7b038b772bd665
+      internalID: 951582686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_69
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 638
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b802432a84bae4288c637d47aab385
+      internalID: -1004700641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 638
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0373e678e308c5243ac581dc290bc75a
+      internalID: 479519811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_71
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 638
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858977a57847b22428ac01a64ff7e4d7
+      internalID: -1170937527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 638
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd30d389e320fb4586e5b2df4486341
+      internalID: -1921816849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_73
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 35
+        width: 252
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6a92a7e468fc441a4c8d86461087af
+      internalID: -931015579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 528
+        width: 173
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03bc3557c388d842a56a21c7a30828c
+      internalID: -1928691581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_75
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 508
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9b0d4cb05a7f04490ab997d9128694
+      internalID: 1624877104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_76
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 263
+        width: 880
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e72a82dc6aa47478be6f9220f7b7d1
+      internalID: 1124573939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_77
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 394
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde47b348c70ee9419d5d222465fa9e1
+      internalID: 867766949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_78
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 319
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ec831b30a72ab45b3dd2e806154ecd
+      internalID: -1256769510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_79
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 212
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c424e71f300764b9c4ed992181c15c
+      internalID: 1075726912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_80
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 92
+        width: 885
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0f4e48918daf44890aaedc1d8c2a68
+      internalID: 849140220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_81
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1466
+        width: 120
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0789146fcdcbe184baa6eeab446ce4b3
+      internalID: 1273568559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_82
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1606
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd829ba19de0fa14a93d0cc96a84f9ea
+      internalID: -1573421662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_83
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1749
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd0919ee189ea94d969e54a23a2ddd6
+      internalID: 238829597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_84
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1528
+        width: 58
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa972d205c073b4ba1aa14160aa58ef
+      internalID: -187689858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Predmety_4: -2126600369
+      Predmety_18: -1657034847
+      Predmety_78: -1256769510
+      Predmety_58: -2124541503
+      Predmety_11: -1837267135
+      Predmety_2: 1871414100
+      Predmety_81: 1273568559
+      Predmety_8: -38717995
+      Predmety_82: -1573421662
+      Predmety_77: 867766949
+      Predmety_25: -1943187196
+      Predmety_65: -981338970
+      Predmety_16: -1833696982
+      Predmety_67: -1091856170
+      Predmety_31: 960112006
+      Predmety_48: -448690544
+      Predmety_14: -1000183782
+      Predmety_50: 1195773117
+      Predmety_13: -1405713767
+      Predmety_3: -1204616879
+      Predmety_83: 238829597
+      Predmety_21: 494582293
+      Predmety_47: 1485617844
+      Predmety_52: 1200527209
+      Predmety_46: 311559297
+      Predmety_69: -1004700641
+      Predmety_22: 1713153160
+      Predmety_73: -931015579
+      Predmety_72: -1921816849
+      Predmety_7: -1345654511
+      Predmety_51: 712039492
+      Predmety_45: 1354182116
+      Predmety_37: -1648396974
+      Predmety_24: -1568661944
+      Predmety_64: 211411517
+      Predmety_36: 1347629389
+      Predmety_27: -1969665532
+      Predmety_57: -1522416178
+      Predmety_5: -856859289
+      Predmety_20: -1745248971
+      Predmety_49: 365850200
+      Predmety_38: 1987070515
+      Predmety_76: 1124573939
+      Predmety_17: -515448884
+      Predmety_70: 479519811
+      Predmety_61: -177008355
+      Predmety_23: -1681688401
+      Predmety_15: -811591996
+      Predmety_75: 1624877104
+      Predmety_12: 1721879119
+      Predmety_34: 377835699
+      Predmety_32: 1229865471
+      Predmety_39: -835303196
+      Predmety_9: -2128215583
+      Predmety_10: 27657692
+      Predmety_28: -1438737978
+      Predmety_59: 452594661
+      Predmety_41: -1242618898
+      Predmety_55: 800046134
+      Predmety_62: 1178814934
+      Predmety_35: -997648470
+      Predmety_42: 865460681
+      Predmety_79: 1075726912
+      Predmety_44: -1157807894
+      Predmety_68: 951582686
+      Predmety_60: 2118064935
+      Predmety_40: 1854558801
+      Predmety_0: 528901360
+      Predmety_43: 834627588
+      Predmety_74: -1928691581
+      Predmety_56: -1102389544
+      Predmety_80: 849140220
+      Predmety_29: 65354114
+      Predmety_19: 1596171129
+      Predmety_6: 487317161
+      Predmety_53: -575947243
+      Predmety_1: -63004882
+      Predmety_33: -1451913339
+      Predmety_84: -187689858
+      Predmety_30: -1723842279
+      Predmety_63: -1175018978
+      Predmety_71: -1170937527
+      Predmety_54: -1945560891
+      Predmety_26: 312134707
+      Predmety_66: -610730234
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
